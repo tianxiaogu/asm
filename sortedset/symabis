@@ -1,0 +1,12 @@
+def "".dedupe1 ABI0
+def "".dedupe2 ABI0
+def "".dedupe4 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".dedupe8 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".dedupe16 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".dedupe32 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".intersect16 ABI0
+def "".union16 ABI0

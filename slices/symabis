@@ -1,0 +1,8 @@
+def "".sumUint64 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".sumUint32 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".sumUint16 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".sumUint8 ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0

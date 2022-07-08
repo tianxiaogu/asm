@@ -1,0 +1,3 @@
+def "".decodeAVX2 ABI0
+def "".decodeAVX2URI ABI0
+def "".encodeAVX2 ABI0

@@ -1,0 +1,8 @@
+def "".distributeForward64 ABI0
+def "".distributeBackward64 ABI0
+def "".insertionsort128NoSwap ABI0
+def "".distributeForward128 ABI0
+def "".distributeBackward128 ABI0
+def "".insertionsort256NoSwap ABI0
+def "".distributeForward256 ABI0
+def "".distributeBackward256 ABI0

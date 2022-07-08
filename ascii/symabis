@@ -1,0 +1,7 @@
+def "".EqualFoldString ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+ref github.com/segmentio/asm/ascii.lowerCase ABI0
+def "".ValidString ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
+def "".ValidPrintString ABI0
+ref github.com/segmentio/asm/cpu.X86 ABI0
